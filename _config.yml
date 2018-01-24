@@ -5,7 +5,7 @@ url: "https://hanqing.zone/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: 刘翰青 | Hanqing Liu
+  title: 翰青 | Hanqing
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash

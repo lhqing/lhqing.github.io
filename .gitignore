@@ -7,7 +7,7 @@
 *.manifest
 *.spec
 
-
+_drafts/**
 _site/**
 _site
 _development_tool/**
