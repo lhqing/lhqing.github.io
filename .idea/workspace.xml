@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3b7e14e-384a-4501-b33c-a518d89e783d" name="Default" comment="">
+    <list default="true" id="e3b7e14e-384a-4501-b33c-a518d89e783d" name="Default" comment="update theme">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-11-18-blogging-with-title.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-08-Markup- Syntax Highlighting.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-11-28-markdown-and-html.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-11-29-feature-images.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README copy.md" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-draft.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post-draft.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_drafts/post-draft.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -85,6 +82,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,8 +106,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pages/about.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -142,36 +149,6 @@
               <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_drafts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lhqing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lhqing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -212,7 +189,7 @@
       <updated>1516774672639</updated>
       <workItem from="1516774674226" duration="53000" />
       <workItem from="1516774745148" duration="247000" />
-      <workItem from="1516775786895" duration="5048000" />
+      <workItem from="1516775786895" duration="5317000" />
     </task>
     <task id="LOCAL-00001" summary="add theme">
       <created>1516779020022</created>
@@ -221,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516779020022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update theme">
+      <created>1516781701764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516781701764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5348000" />
+    <option name="totallyTimeSpent" value="5617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -258,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add theme" />
+    <MESSAGE value="update theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -519,14 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_portfolio/cake.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -651,6 +628,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
