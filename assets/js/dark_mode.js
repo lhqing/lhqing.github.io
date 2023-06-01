@@ -5,3 +5,4 @@ document.addEventListener('DOMContentLoaded', function() {
         toggleTheme(localStorage.getItem("theme"));
     });
 });
+
