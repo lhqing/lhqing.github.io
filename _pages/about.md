@@ -21,21 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Hanqing Liu (刘翰青).
 
-I am currently a Harvard [Junior Fellow](https://socfell.fas.harvard.edu/about)
-working with the [Greenberg lab](https://greenberg.hms.harvard.edu/)
-at [Harvard Medical School](https://hms.harvard.edu/).
+I am currently a Junior Fellow in the [Harvard Society of Fellows](https://socfell.fas.harvard.edu/about)
+working with [Michael Greenberg's lab](https://greenberg.hms.harvard.edu/)
+at [Harvard Medical School](https://hms.harvard.edu/). My research integrates large-scale single-cell genomics, molecular technology development, and computational modeling to understand how gene regulation is encoded in the genome and deployed across diverse brain cell states. I am particularly interested in activity-dependent gene regulation and how non-coding regulatory variation shapes brain development and contributes to psychiatric disorders.
 
-Before joining Harvard, I was a postdoctoral fellow in the [Ecker lab](https://ecker.salk.edu/) at the
-[Salk Institute for Biological Studies](https://www.salk.edu/),
-where I got my PhD in Biology from UCSD under the guidance of
-[Dr. Joseph Ecker](https://www.hhmi.org/scientists/joseph-r-ecker).
-My doctoral research focuses on developing single-cell multi-omic technologies and analytical frameworks
-to investigate and decipher the epigenomic diversity of mammalian brains across spatial and temporal dimensions.
+Previously, I trained in [Joseph Ecker’s lab](https://ecker.salk.edu/) at the [Salk Institute](https://www.salk.edu/) and earned my PhD in Biology from UC San Diego, where I helped build and analyze single-cell multi-omic brain atlases spanning epigenomic and 3D genome layers. I got my BSc in Biotechnology from the [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University) in China, graduating with honors from the Chu Kochen Honors College. I also had one year clinical training at the Zhejiang University School of Medicine, before I decided to change my career path to basic research.
 
-I got my BSc in Biotechnology from the [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University) in China,
-graduating with honors from the Chu Kochen Honors College.
-I also had one year clinical training at the Zhejiang University School of Medicine,
-before I decided to change my career path to basic research.
-
-I grow up in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), the capital city of Zhejiang Province in China.
-I enjoy taking photos and going to classical music concerts in my spare time.
+I grow up in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), a beautilful city of Zhejiang Province in China. I enjoy enjoy photography and classical music in my spare time.
