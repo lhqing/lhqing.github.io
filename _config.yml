@@ -204,6 +204,7 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
+  - CLAUDE.md
   - Gemfile
   - Gemfile.lock
   - vendor
